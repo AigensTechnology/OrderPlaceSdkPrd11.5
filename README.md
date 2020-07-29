@@ -30,7 +30,7 @@ target 'YourProjectName' do
 
   use_frameworks!
 
-pod 'OrderPlaceSdkPrd11.5', '~> 0.2.0'
+pod 'OrderPlaceSdkPrd11.5', '~> 0.3.0'
 
 end
 
@@ -39,12 +39,12 @@ end
 * If you want the alipay feature,pls
 
 ```rb
-pod 'OrderPlaceSdkPrd11.5/Alipay', '~> 0.2.0'
+pod 'OrderPlaceSdkPrd11.5/Alipay', '~> 0.3.0'
 ```
 * If you want the wechat pay feature,pls
 
 ```rb
-pod 'OrderPlaceSdkPrd11.5/Wechat', '~> 0.2.0'
+pod 'OrderPlaceSdkPrd11.5/Wechat', '~> 0.3.0'
 ```
 
 ## Author
@@ -54,5 +54,11 @@ Aigens
 ## License
 
 coming soon
+
+
+## update record
+
+0.3.0
+alipay & wechat , support WKWebview
 
 

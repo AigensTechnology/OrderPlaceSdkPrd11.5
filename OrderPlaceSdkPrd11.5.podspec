@@ -2,7 +2,7 @@
 Pod::Spec.new do |s|
 
 s.name = "OrderPlaceSdkPrd11.5"
-s.version = "0.2.0"
+s.version = "0.3.0"
 s.summary = "Order Place Sdk swift5 Prd with Xcode11.5"
 
 s.description = <<-DESC
